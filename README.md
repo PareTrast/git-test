@@ -1,0 +1,1 @@
+This is Kaelin's first git project...kind of
